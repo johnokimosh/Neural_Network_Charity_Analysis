@@ -52,5 +52,5 @@ Using bulleted lists and images to support your answers, address the following q
   - <i>other performace improvements included increasing the hidden layers from 2 to 3, and again from 3 to 4. Both additions did not improve the performace of the model.</i></p>
   
 ## Summary
-Summarize the overall results of the deep learning model. 
-The model included a variety of features that lead to a noisy model. Removing some of the features or binning features could improve the model. Another potential improvement may be not using a deep learning model to process the data for predictions. An alternative is using a logistic regression because the targets for the model are binary.
+Summarize the overall results of the deep learning model.</p>
+<i>The model included a variety of features that lead to a noisy model. Removing some of the features or binning features could improve the model. Another potential improvement may be not using a deep learning model to process the data for predictions. An alternative is using a logistic regression because the targets for the model are binary.<i/>
